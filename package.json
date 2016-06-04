@@ -23,6 +23,6 @@
   "author": "Blake Johnston",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.12.4",
+    "express": "^4.12.4"
   }
 }
